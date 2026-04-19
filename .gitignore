@@ -1,0 +1,16 @@
+# Credentials and Environment
+.env
+
+# Virtual Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Data
+data/
+
+# IDE files
+.vscode/
+.idea/
